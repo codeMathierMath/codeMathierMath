@@ -31,3 +31,13 @@ Expect exploratory code, math notes, and iterative refinement.
 ---
 
 📂 Featured repositories will appear below as they mature
+
+## Projects
+
+### Conway’s Game of Life (Java)
+A discrete dynamical system implemented in Java, emphasizing state
+representation, deterministic rule-based evolution, and toroidal
+boundary conditions. Visualization is provided via StdDraw, with the
+focus on clarity and correctness of the underlying model.
+
+🔗 https://github.com/codeMathierMath/conway_game_of_life
