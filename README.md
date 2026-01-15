@@ -32,7 +32,12 @@ Expect exploratory code, math notes, and iterative refinement.
 
 📂 Featured repositories will appear below as they mature
 
-## Projects
+## Selected Projects
+
+
+### Card Game Simulation (Java)
+Object-oriented card game simulation demonstrating interacting abstractions (`Card`, `Deck`, `Hand`) and rule-baseed control flow.
+🔗 https://github.com/codeMathierMath/java_card_game
 
 ### Conway’s Game of Life (Java)
 A discrete dynamical system implemented in Java, emphasizing state
