@@ -34,10 +34,15 @@ Expect exploratory code, math notes, and iterative refinement.
 
 ## Selected Projects
 
+### Algorithm–Architecture Match (Java)
+A performance modeling tool that explores how algorithm characteristics interact with hardware architectures using a roofline-inspired cost model. Users can simulate runtimes, compare tradeoffs, and reason about compute- vs. memory-bound behavior across CPUs, SIMD units, and GPU-like systems.
 
-### Card Game Simulation (Java)
-Object-oriented card game simulation demonstrating interacting abstractions (`Card`, `Deck`, `Hand`) and rule-baseed control flow.
-🔗 https://github.com/codeMathierMath/java_card_game
+🔗 https://github.com/codeMathierMath/algorithm_architecture_match
+
+### Algorithm Audio Visualizer (Java)
+An audio-visual exploration of sorting algorithms where algorithm state is mapped to both sound and visualization in real time. Highlights how algorithmic behavior manifests dynamically, using Merge Sort and Insertion Sort as initial case studies.
+
+🔗 https://github.com/codeMathierMath/algorithm_audio_visualizer
 
 ### Conway’s Game of Life (Java)
 A discrete dynamical system implemented in Java, emphasizing state
