@@ -5,6 +5,7 @@ I’m interested in the intersection of:
 - Wireless systems, DSP, and SDR
 - FPGA / hardware-software co-design
 - Systems & low-level computation
+- Mechanical Layout and CAD Modeling
 - Mathematics (linear algebra, differential equations, modeling)
 - Physics (mechanics, electromagnetism and waves)
 
@@ -14,8 +15,9 @@ This GitHub is a long-term lab notebook:
 - clear documentation over polish
 
 ## Current Focus
-- RTL-SDR experimentation and signal analysis
-- DSP fundamentals implemented from first principles
+- SOLIDWORKS, Machining, and Systems Integration as Mechanical Team Lead for CanSat competition team (full lifecycle aerospace project incorporating design, test, and launch of can-sized satellite simulation)
+- RTL-SDR experimentation and signal analysis (on hold for focus on CanSat deadline)
+- DSP fundamentals implemented from first principles (on hold for focus on CanSat deadline)
 - Mathematical modeling of physical systems
 
 ## Background
