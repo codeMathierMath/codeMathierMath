@@ -1,4 +1,3 @@
-
 Hi — I’m Liam.
 
 I’m interested in the intersection of:
@@ -53,3 +52,6 @@ boundary conditions. Visualization is provided via StdDraw, with the
 focus on clarity and correctness of the underlying model.
 
 🔗 https://github.com/codeMathierMath/conway_game_of_life
+
+/Users/cmm/Projects/codeMathierMath/ConwayGameOfLife_Recording.gif 
+
