@@ -16,8 +16,8 @@ This GitHub is a long-term lab notebook:
 
 ## Current Focus
 - SOLIDWORKS, Machining, and Systems Integration as Mechanical Team Lead for CanSat competition team (full lifecycle aerospace project incorporating design, test, and launch of can-sized satellite simulation)
-- RTL-SDR experimentation and signal analysis (on hold for focus on CanSat deadline)
-- DSP fundamentals implemented from first principles (on hold for focus on CanSat deadline)
+- RTL-SDR experimentation and signal analysis (on hold for focus on CanSat and courses at Amherst College)
+- DSP fundamentals implemented from first principles (on hold for focus on CanSat and courses at Amherst College)
 - Mathematical modeling of physical systems
 
 ## Background
