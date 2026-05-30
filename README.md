@@ -14,15 +14,15 @@ This GitHub is a long-term lab notebook:
 - clear documentation over polish
 
 ## Current Focus
-- SOLIDWORKS, Machining, and Systems Integration as Mechanical Team Lead for CanSat competition team (full lifecycle aerospace project incorporating design, test, and launch of can-sized satellite simulation)
-- RTL-SDR experimentation and signal analysis (on hold for focus on CanSat and courses at Amherst College)
-- DSP fundamentals implemented from first principles (on hold for focus on CanSat and courses at Amherst College)
-- Mathematical modeling of physical systems
+- SDR experimentation
+- DSP fundamentals implemented from first principles
+- RF Hardware
 
 ## Background
 - Intro to Computer Science (Java) @ Amherst College
 - Self-directed study in mathematics and systems programming (MATLAB and R)
 - Special Forces Communications Sergeant in the US Army
+- SOLIDWORKS, Machining, and Systems Integration as Mechanical Team Lead for CanSat competition team (full lifecycle aerospace project incorporating design, test, and launch of can-sized satellite simulation)
 - Strong interest in RF, embedded systems, and HPC-adjacent work
 
 ## Philosophy
