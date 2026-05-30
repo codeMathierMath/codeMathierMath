@@ -53,4 +53,4 @@ focus on clarity and correctness of the underlying model.
 
 🔗 https://github.com/codeMathierMath/conway_game_of_life
 
-![Game of Life Demo](https://github.com/codeMathierMath/conway_game_of_life/media/game_of_life_demo.gif)
+![Game of Life Demo](https://raw.githubusercontent.com/codeMathierMath/conway_game_of_life/media/game_of_life_demo.gif)
