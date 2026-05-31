@@ -35,6 +35,12 @@ Expect exploratory code, math notes, and iterative refinement.
 
 ## Selected Projects
 
+### Two-Cycle RISC-V Processor (CircuitVerse)
+
+A two-cycle fetch/execute RISC-V processor supporting R-, I-, and B-type instructions, built in CircuitVerse for COSC 175 (Digital Design) at Amherst College. Designed and integrated by a six-person team. Contributions include overall architecture, datapath design, Control Unit implementation (comparator → encoder → MUX approach), and full circuit integration.
+
+🔗 https://github.com/codeMathierMath/riscv_processor
+
 ### Algorithm–Architecture Match (Java)
 A performance modeling tool that explores how algorithm characteristics interact with hardware architectures using a roofline-inspired cost model. Users can simulate runtimes, compare tradeoffs, and reason about compute- vs. memory-bound behavior across CPUs, SIMD units, and GPU-like systems.
 
@@ -55,8 +61,4 @@ focus on clarity and correctness of the underlying model.
 
 ![Game of Life Demo](https://raw.githubusercontent.com/codeMathierMath/conway_game_of_life/main/media/game_of_life_demo.gif)
 
-### Two-Cycle RISC-V Processor (CircuitVerse)
 
-A two-cycle fetch/execute RISC-V processor supporting R-, I-, and B-type instructions, built in CircuitVerse for COSC 175 (Digital Design) at Amherst College. Designed and integrated by a six-person team. Contributions include overall architecture, datapath design, Control Unit implementation (comparator → encoder → MUX approach), and full circuit integration.
-
-🔗 https://github.com/codeMathierMath/riscv_processor
