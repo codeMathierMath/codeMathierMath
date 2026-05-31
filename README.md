@@ -54,3 +54,9 @@ focus on clarity and correctness of the underlying model.
 🔗 https://github.com/codeMathierMath/conway_game_of_life
 
 ![Game of Life Demo](https://raw.githubusercontent.com/codeMathierMath/conway_game_of_life/main/media/game_of_life_demo.gif)
+
+### Two-Cycle RISC-V Processor (CircuitVerse)
+
+A two-cycle fetch/execute RISC-V processor supporting R-, I-, and B-type instructions, built in CircuitVerse for COSC 175 (Digital Design) at Amherst College. Designed and integrated by a six-person team. Contributions include overall architecture, datapath design, Control Unit implementation (comparator → encoder → MUX approach), and full circuit integration.
+
+🔗 https://github.com/codeMathierMath/riscv_processor
