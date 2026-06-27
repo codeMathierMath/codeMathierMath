@@ -21,7 +21,7 @@ This GitHub is a long-term lab notebook:
 ## Background
 - Intro to Computer Science (Java) @ Amherst College
 - Self-directed study in mathematics and systems programming (MATLAB and R)
-- Special Forces Communications Sergeant in the US Army
+- Radio Operator in the US Army
 - SOLIDWORKS, Machining, and Systems Integration as Mechanical Team Lead for CanSat competition team (full lifecycle aerospace project incorporating design, test, and launch of can-sized satellite simulation)
 - Strong interest in RF, embedded systems, and HPC-adjacent work
 
