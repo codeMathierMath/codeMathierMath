@@ -1,12 +1,9 @@
 Hi — I’m Liam.
 
-I’m interested in the intersection of:
-- Wireless systems, DSP, and SDR
-- FPGA / hardware-software co-design
-- Systems & low-level computation
-- Mechanical Layout and CAD Modeling
-- Mathematics (linear algebra, differential equations, modeling)
-- Physics (mechanics, electromagnetism and waves)
+I’m interested in modeling mathematical physics as I go along
+in my undergraduate education. I started off studying CS and recently switched
+to a Physics major. Right now the posted projects here are of a CS flavoring,
+which shows a foundation that I am proud of.
 
 This GitHub is a long-term lab notebook:
 - focused, incremental projects
@@ -14,16 +11,18 @@ This GitHub is a long-term lab notebook:
 - clear documentation over polish
 
 ## Current Focus
-- SDR experimentation
-- DSP fundamentals implemented from first principles
-- RF Hardware
+- Modern Physics
+- Calculus of Variations
+- Oscillations and Waves 
 
 ## Background
-- Intro to Computer Science (Java) @ Amherst College
-- Self-directed study in mathematics and systems programming (MATLAB and R)
+- Self-directed study in mathematics & physics
+- Mechanics and Electromagnetism @ Amherst College
+- Intro Computer Science Courses (Java & Systems) @ Amherst College
 - Radio Operator in the US Army
 - SOLIDWORKS, Machining, and Systems Integration as Mechanical Team Lead for CanSat competition team (full lifecycle aerospace project incorporating design, test, and launch of can-sized satellite simulation)
-- Strong interest in RF, embedded systems, and HPC-adjacent work
+- RF Engineering internship focused on implementing hardware control into
+  Software Defined Radio testbed system
 
 ## Philosophy
 I care more about understanding *why systems work* than shipping fast demos.
